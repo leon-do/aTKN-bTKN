@@ -17,7 +17,7 @@
       "address": "0x40bab09abb5d372efbb2b1cd34ca8f56b5e9fb56",
       "name": "Token6",
       "symbol": "TKN6",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://user-images.githubusercontent.com/19412160/186027888-dcb21b29-e9b7-4b9a-8280-783ad448f30e.png"
     }
   ],
